@@ -1,0 +1,9 @@
+{
+	"name": "testadfwe",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e61a2682-28cd-4f59-be1d-180f863efa3f",
+		"tenantId": "e81eba38-8c3e-47bc-81ca-bbbe9734cc55"
+	}
+}
